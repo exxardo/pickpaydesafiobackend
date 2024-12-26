@@ -6,7 +6,6 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 import org.hibernate.usertype.UserType;
-
 import java.math.BigDecimal;
 
 @Entity(name="users")
