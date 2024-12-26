@@ -1,4 +1,4 @@
-package com.picpaydesafiobackend.pickpaydesafiobackend;
+package com.picpaydesafiobackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
